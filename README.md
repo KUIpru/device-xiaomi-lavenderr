@@ -1,0 +1,2 @@
+# device-xiaomi-lavenderr
+personal
